@@ -1,2 +1,3 @@
-# tableau_viz
-Tableau Visualizations
+# Tableau Visualizations 
+
+1.) NYC Airbnb 
